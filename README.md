@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rusith Sashika</h1>
 <h3 align="center">A passionate full stack developer from SriLanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rusith2001&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rusith-S&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
 - 🎓 I’m an Undergraduate at SLIIT
   
@@ -29,17 +29,17 @@
   <tr border="none">
     <td width="50%" align="center">
       
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rusith2001&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rusith-S&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&show_icons=true&count_private=true" />
   
   <br></br>
   
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rusith2001&theme=outrun&hide_border=false" />   
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rusith-S&theme=outrun&hide_border=false" />   
   
   </td>
 
   <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rusith2001&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rusith-S&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     
   </td>
 </tr>
@@ -47,7 +47,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rusith2001&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Rusith-S&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
