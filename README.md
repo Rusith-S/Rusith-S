@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Angular, Full stack Development, Machine Learning**
   
-- 🔗 Visit my Portfolio [https://bit.ly/4bsnmHp](https://bit.ly/4bsnmHp)
+- 🔗 Visit my Portfolio (https://shorturl.at/puwzH)
   
 - 💬 Ask me about **HTML, CSS, SQL, JavaScript**
   
