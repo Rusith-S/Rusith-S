@@ -14,7 +14,7 @@
   
 - 📩 Feel free to reach me out **rusithsashika@gmail.com**
 
-- ⚡ Now I'm looking for an internship
+- ⚡ I'm looking for an internship
   
 - ⬇ Download my CV <a href="Rusith_Sashika_CV.pdf" download> Rusith Sashika CV.pdf</a>
  
