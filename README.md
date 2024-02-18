@@ -6,7 +6,7 @@
 
 - 🎓 I’m an Undergraduate 
   
-- 🌱 I’m currently learning **Angular, Full stack Development, Machine Learning**
+- 🌱 I’m currently learning **Springboot, Full stack Development, Machine Learning**
   
 - 🔗 Visit my Portfolio [shorturl.at/puwzH](https://shorturl.at/puwzH)
   
