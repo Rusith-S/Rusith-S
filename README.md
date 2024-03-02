@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Springboot, Full stack Development, Machine Learning**
   
-- 🔗 Visit my Portfolio https://rusith-s.github.io/Rusith-Portfolio/
+- 🔗 Visit my Portfolio rusith-s.github.io/Rusith-Portfolio/
   
 - 💬 Ask me about **HTML, CSS, SQL, JavaScript**
   
