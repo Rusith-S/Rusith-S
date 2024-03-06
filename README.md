@@ -6,7 +6,7 @@
 
 - 🎓 I’m an Undergraduate 
   
-- 🌱 I’m currently learning **Springboot, Full stack Development, Machine Learning**
+- 🌱 I’m currently learning **Springboot, Full stack Development, ORDBMS**
   
 - 🔗 Visit my Portfolio https://rusith-s.github.io/Rusith-Portfolio/
   
