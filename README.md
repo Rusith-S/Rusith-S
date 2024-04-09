@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "R.jpeg" width = 1100px height= 600px></p>
+<p align="center" ><img  src = "R.jpeg" width = 1100px height= 500px></p>
 <h1 align="center">Hi 👋, I'm Rusith Sashika</h1>
 <h3 align="center">A passionate full stack developer from SriLanka</h3>
 
