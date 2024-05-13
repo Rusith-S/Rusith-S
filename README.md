@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rusith-S&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
 
-
 - 🎓 I’m an Undergraduate 
   
 - 🌱 I’m currently learning **Springboot, Full stack Development, ORDBMS**
