@@ -9,7 +9,6 @@
 
 
 
-
 - 🎓 I’m an Undergraduate 
   
 - 🌱 I’m currently learning **Springboot, Full stack Development, ORDBMS**
