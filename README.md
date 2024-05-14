@@ -3,7 +3,6 @@
 <h3 align="center">A passionate full stack developer from SriLanka</h3>
 
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rusith-S&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
 - 🎓 I’m an Undergraduate 
