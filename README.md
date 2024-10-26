@@ -14,8 +14,6 @@
 - 📩 Feel free to reach me out **rusithsashika@gmail.com**
   
 - ⬇ Download my CV <a href="Rusith_Sashika_CV.pdf" download> Rusith Sashika CV.pdf</a>
- 
-- ⚡ Fun fact **call me as Russa**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
