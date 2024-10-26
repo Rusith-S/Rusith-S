@@ -4,6 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rusith-S&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
 - 🎓 I’m an Undergraduate
+
+-  ⚡ I'm Intern Software Quality Engineer
   
 - 🌱 I’m currently learning **Springboot, Full stack Development, ORDBMS**
   
@@ -12,8 +14,6 @@
 - 💬 Ask me about **HTML, CSS, SQL, JavaScript**
   
 - 📩 Feel free to reach me out **rusithsashika@gmail.com**
-
-- ⚡ I'm looking for an internship
   
 - ⬇ Download my CV <a href="Rusith_Sashika_CV.pdf" download> Rusith Sashika CV.pdf</a>
  
