@@ -5,7 +5,7 @@
 
 - 🎓 I’m an Undergraduate
 
--  ⚡ I am currently working as an Intern Software Quality Engineer.
+-  ⚡ I am currently working as an Intern Software Quality Engineer
   
 - 🌱 I’m currently learning **Cloud Computing and Machine Learning**
   
