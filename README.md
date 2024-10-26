@@ -7,7 +7,7 @@
 
 -  ⚡ I'm Intern Software Quality Engineer
   
-- 🌱 I’m currently learning **Springboot, Full stack Development, ORDBMS**
+- 🌱 I’m currently learning **Cloud Computing and Machine Learning**
   
 - 🔗 Visit my Portfolio https://rusith-s.github.io/Rusith-Portfolio/
   
