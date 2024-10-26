@@ -10,9 +10,7 @@
 - 🌱 I’m currently learning **Cloud Computing and Machine Learning**
   
 - 🔗 Visit my Portfolio https://rusith-s.github.io/Rusith-Portfolio/
-  
-- 💬 Ask me about **HTML, CSS, SQL, JavaScript**
-  
+
 - 📩 Feel free to reach me out **rusithsashika@gmail.com**
   
 - ⬇ Download my CV <a href="Rusith_Sashika_CV.pdf" download> Rusith Sashika CV.pdf</a>
