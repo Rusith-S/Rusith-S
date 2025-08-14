@@ -7,8 +7,6 @@
 
 -  ⚡ I am currently working as an Intern Software Quality Engineer
   
-- 🌱 I’m currently learning **Cloud Computing and Machine Learning**
-  
 - 🔗 Visit my Portfolio https://rusith-s.github.io/Rusith-Portfolio/
 
 - 📩 Feel free to reach me out **rusithsashika@gmail.com**
