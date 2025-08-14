@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rusith-S&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
 - 🎓BSc (Hons) in Information Technology (Specialising in Information Technology)
-Second Class Honours (Lower Division)
 
 -  ⚡ I am currently working as an Intern Software Quality Engineer
   
