@@ -7,7 +7,7 @@
 
 -  ⚡ I am currently working as an Intern Software Quality Engineer
   
-- 🔗 Visit my Portfolio https://rusith-s.github.io/Rusith-Portfolio/
+- 🔗 Visit my Portfolio https: https://tinyurl.com/4v6x5hbf
 
 - 📩 Feel free to reach me out **rusithsashika@gmail.com**
   
